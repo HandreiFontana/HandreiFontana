@@ -117,6 +117,9 @@
   <img 
     src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" 
     alt="vs-code">
+  <img 
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" 
+    alt="Windows">
 </div>
 
 ---
