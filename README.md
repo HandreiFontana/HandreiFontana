@@ -1,6 +1,6 @@
 <!--*************** Title ***************-->
 <h1 align="center">
-  Olá, Eu sou o Handrei
+  Hi! I'm Handrei
 </h1>
 
 <!--*************** Front cover ***************-->
@@ -18,7 +18,7 @@
 <!--*************** Contact ***************-->
 <div>
   <h3>
-    📬 Meus perfis:
+    📬 My social media:
   </h3>
   <br />
   <a href="#">
@@ -49,25 +49,26 @@
 <br />
   
  <!--*************** About ***************-->
-<h3>🚀 Sobre mim...</h3>
+<h3>🚀 About me...</h3>
 <br />
 <div>
   <ul>
-    <li>💻 Licenciando em Matemática aprendendo a desenvolver</li><br/>
-    <li>📌 Moro no Paraná-BR</li><br/>
-    <li>🕐 Estou desenvolvendo desde setembro de 2021</li><br/>
-    <li>🔭 Atualmente estou estudando Node.js</li><br/>
-    <li>🌱 Conheço HTML 5, CSS 3, JavaScript, MySQL</li><br/>
-    <li>🍁 Pretendo ir morar no Canadá</li><br/>
-    <li>🐱 Tenho dois gatos</li><br/>
-    <li>📖 Estou em constante aprendizado</li><br/>
+    <li>💻 Math student coding</li><br/>
+    <li>📌 Living in Paraná-BR</li><br/>
+    <li>🕐 Developing since september, 2021</li><br/>
+    <li>🔭 Working at Vamilly Inovações em Soluções em TI LTDA</li><br/>
+    <li>🌱 Backend using NodeJS (Express / TypeORM)</li><br/>
+    <li>🌱 Frontend using ReactJS (MaterialUI / Styled-components)</li><br/>
+    <li>🌎 I want to make a travel around the world</li><br/>
+    <li>🐱 I have two cats</li><br/>
+    <li>📖 I'm always learning</li><br/>
   </ul>
 </div>
 
 ---
 
-<!--*************** Ferramentas ***************-->
-<h3>🛠️ Ferramentas de Trabalho</h3>
+<!--*************** Tools ***************-->
+<h3>🛠️ Work tools</h3>
 <div>
   <img 
     src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -100,7 +101,7 @@
 
 ---
 
-<h2>🖥️ Meu Setup</h2>
+<h2>🖥️ My Setup</h2>
 <div>
   <img 
     src="https://img.shields.io/badge/R5-3600-0071C5?style=for-the-badge&amp;logo=amd&amp;logoColor=white" 
@@ -122,7 +123,7 @@
 ---
 
 <!--*************** Stats ***************-->
-<h2>📈 <strong>Meus status do GitHub:</strong></h2>
+<h2>📈 <strong>My Github Stats:</strong></h2>
 <div align="center">
   <img 
     width="400" 
