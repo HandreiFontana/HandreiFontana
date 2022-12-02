@@ -59,8 +59,9 @@
     <li>🔭 Working at Vamilly Inovações em Soluções em TI LTDA</li><br/>
     <li>🌱 Backend using NodeJS (Express / TypeORM)</li><br/>
     <li>🌐 Frontend using ReactJS (MaterialUI / Styled-components)</li><br/>
+    <li>🌐 Frontend using Angular (PO-UI)</li><br/>
     <li>🖥️ Mobile using React-Native (React-Native-Paper)</li><br/>
-    <li>📖 Currently learning Angular</li><br/>
+    <li>📖 Currently learning Flutter</li><br/>
     <li>🌎 I want to make a travel around the world</li><br/>
     <li>🐱 I have two cats</li><br/>
     <li>📚 I'm always learning</li><br/>
