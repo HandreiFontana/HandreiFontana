@@ -91,6 +91,9 @@
   <img 
     src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
     alt="react">
+  <img
+    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+    alt="angular">
   <img 
     src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" 
     alt="typescript">
