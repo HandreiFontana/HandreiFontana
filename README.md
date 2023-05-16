@@ -25,6 +25,10 @@
     <img 
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://handrei.com.br">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  </a>
   <a href="mailto:handreifontana@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
@@ -53,15 +57,16 @@
 <br />
 <div>
   <ul>
-    <li>💻 Math student coding</li><br/>
+    <li>💻 Living a dream coding</li><br/>
+    <li>➗ Math graduated</li><br/>
     <li>📌 Living in Paraná-BR</li><br/>
     <li>🕐 Developing since september, 2021</li><br/>
     <li>🔭 Working at Vamilly Inovações em Soluções em TI LTDA</li><br/>
     <li>🌱 Backend using NodeJS (Express / TypeORM)</li><br/>
     <li>🌐 Frontend using ReactJS (MaterialUI / Styled-components)</li><br/>
     <li>🌐 Frontend using Angular (PO-UI)</li><br/>
-    <li>🖥️ Mobile using React-Native (React-Native-Paper)</li><br/>
-    <li>📖 Currently learning Flutter</li><br/>
+    <li>🖥️ Mobile using Flutter</li><br/>
+    <li>📖 Currently learning Java</li><br/>
     <li>🌎 I want to make a travel around the world</li><br/>
     <li>🐱 I have two cats</li><br/>
     <li>📚 I'm always learning</li><br/>
@@ -116,7 +121,7 @@
     src="https://img.shields.io/badge/16GB-RAM-0071C5?style=for-the-badge&amp;logo=memoria-ram&amp;logoColor=white" 
     alt="16GB RAM">
   <img 
-    src="https://img.shields.io/badge/NVIDIA-GTX_970-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" 
+    src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" 
     alt="gtx-970">
   <img 
     src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" 
@@ -124,6 +129,9 @@
   <img 
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" 
     alt="Windows">
+  <img 
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" 
+    alt="Ubuntu">
 </div>
 
 ---
