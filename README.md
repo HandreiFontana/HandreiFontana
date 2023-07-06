@@ -5,15 +5,10 @@
 
 <!--*************** Front cover ***************-->
 <div align="center">
-  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" />
+  <img src="https://media4.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47gf321rx886gk75380unfdq5xf6ol13hgwrk2kh5z&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 <br/>
-
-<p>
-  <br />
-  <br />
-</p>
 
 <!--*************** Contact ***************-->
 <div>
