@@ -56,10 +56,10 @@
     <li>➗ Math graduated</li><br/>
     <li>📌 Living in Paraná-BR</li><br/>
     <li>🕐 Developing since september, 2021</li><br/>
-    <li>🔭 Working at Vamilly Inovações em Soluções em TI LTDA</li><br/>
+    <li>🔭 Working at Conducco</li><br/>
     <li>🌱 Backend using NodeJS (Express / TypeORM)</li><br/>
     <li>🌐 Frontend using ReactJS (MaterialUI / Styled-components)</li><br/>
-    <li>🌐 Frontend using Angular (PO-UI)</li><br/>
+    <li>🌐 Web scrapping using Python (Selenyum)</li><br/>
     <li>🖥️ Mobile using Flutter</li><br/>
     <li>📖 Currently learning Java</li><br/>
     <li>🌎 I want to make a travel around the world</li><br/>
